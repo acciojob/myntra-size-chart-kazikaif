@@ -5,5 +5,14 @@ border : 1px solid black;
 }
 
 th{
-	color:green;
+	background-color:brown;
+}
+.sec{
+	background-color:orange;
+}
+.thir{
+	background-color:skyblue;
+}
+.four{
+	background-color:gray;
 }
